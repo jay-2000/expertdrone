@@ -2,4 +2,4 @@
 
 - learn in public
 
-with 100 days of code, want to cover DSA simultaneously
+with 100 days of code, want to cover DSA simultaneously in python
