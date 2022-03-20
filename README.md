@@ -15,6 +15,10 @@ got to learn string conversion(str()), print function, conditional statements(if
 
 got to learn elif, random module, while loop
 
--rock_paper_scissors
+- rock_paper_scissors
 
 got to learn to code list and revised some functions and features of quiz game and random quesser.
+
+- choose_your_own_adventure
+
+got to revised about if ,else, elif functions
