@@ -17,4 +17,4 @@ got to learn elif, random module, while loop
 
 -rock_paper_scissors
 
-got to learn to code list and revised some functions and features of quiz game and randon quesser.
+got to learn to code list and revised some functions and features of quiz game and random quesser.
